@@ -1,4 +1,4 @@
-## Interface: 20501
+## Interface: 50500, 50501, 50502, 50503
 ## Title: PrintTracer
 ## Notes: Traces the source of print calls
 ## Author: Alex Folland
