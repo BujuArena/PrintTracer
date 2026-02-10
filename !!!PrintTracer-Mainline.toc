@@ -1,6 +1,0 @@
-## Interface: 110107, 110200, 110205, 120000, 120001
-## Title: PrintTracer
-## Notes: Traces the source of print calls
-## Author: Alex Folland
-
-PrintTracer.lua
